@@ -58,11 +58,16 @@ lower-value classes so inventory attention can be prioritized.
 
 ## Key findings
 
-Replace these instructions after reopening and checking the `.pbix` file.
+The completed project document records these results from the model and
+interactive dashboard:
 
-- [Add a verified ABC-class finding.]
-- [Add a verified inventory-turnover finding.]
-- [Add a verified category or geographic finding.]
+- When the dashboard was filtered to Class B (medium-value) items, the jewelry
+  category no longer appeared.
+- The highest-revenue Class B item had an inventory-turnover value of 1.74.
+- Denmark recorded the most orders for the item selected in the document's
+  country analysis.
+- With Classes A and B selected together, average inventory turnover was 0.21.
+- At rank 10, the cumulative percentage of 2021 revenue was 47.97%.
 
 ## Repository contents
 
